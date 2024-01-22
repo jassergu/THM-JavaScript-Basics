@@ -1,0 +1,38 @@
+#task 1 : intoduction to JS : 
+Let's Begin!
+No answer needed
+#Task 2  Variables & Operators
+What type of data type is this: 'Neo'?
+String
+What data type is true/false?
+boolean
+What is John's occupation?
+Master Hacker
+What tag is used for linking a JavaScript file to HTML?
+script
+#Task 3  ConditionalsCongratulations! You can now write conditionals!
+No answer needed
+#Task 4  Functions
+Finished with Functions!
+No answer needed
+#Task 5  Objects & ArraysWhat type of brackets are used for arrays?
+[]
+What color pill did we choose?
+Red Pill
+﻿What is the output of this code?
+Tyrell
+#Task 6  Loops
+Loops repeat until the written code is finished running (true/false)
+true
+What loop doesn't require the condition to be true for it execute at least once?
+do...while
+#Task 7  Document Object Model (DOM)
+What is the DOM?
+Document Object Model
+#Task 8  XSSWhat is it called when XSS is used to record keystrokes?
+Keylogging
+#Task 9  Final NotesavaScript Basics Master!
+No answer needed
+#Task 10  JavaScript Challenge : 
+Sort the array [1,10,5,15,2,7,28,900,45,18,27]
+[1,2,5,7,10,15,18,27,28,45,900]
